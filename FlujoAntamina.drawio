@@ -53,7 +53,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SGzfCD33fUTljajn-jBd-12" value="Dataset de 741 fotogramas" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="SGzfCD33fUTljajn-jBd-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SGzfCD33fUTljajn-jBd-12" target="SGzfCD33fUTljajn-jBd-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SGzfCD33fUTljajn-jBd-12" value="Dataset de 741 fotogramas válidos" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="480" y="600" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="SGzfCD33fUTljajn-jBd-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SGzfCD33fUTljajn-jBd-14" target="SGzfCD33fUTljajn-jBd-2">
@@ -77,6 +80,15 @@
           <mxGeometry x="650" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SGzfCD33fUTljajn-jBd-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SGzfCD33fUTljajn-jBd-20" target="SGzfCD33fUTljajn-jBd-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SGzfCD33fUTljajn-jBd-25" value="Procesamiento de etiquetado" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SGzfCD33fUTljajn-jBd-29" value="Dataset de etiquetas por fotograma" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="480" y="720" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SGzfCD33fUTljajn-jBd-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.011;entryY=0.58;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SGzfCD33fUTljajn-jBd-25" target="SGzfCD33fUTljajn-jBd-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
